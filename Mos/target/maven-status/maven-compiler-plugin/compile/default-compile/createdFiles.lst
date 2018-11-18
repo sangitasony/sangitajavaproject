@@ -1,0 +1,14 @@
+org\sony\mosaapp\controller\resource\ProjectResourceConroller.class
+org\sony\mosaapp\dao\issue\IssueDao.class
+org\sony\mosaapp\dto\issue\IssueDto.class
+org\sony\mosaapp\controller\project\ProjectController.class
+org\sony\mosaapp\controller\admin\AdminController.class
+org\sony\mosaapp\service\issue\IssueService.class
+org\sony\mosaapp\service\resource\ProjectResourceService.class
+org\sony\mosaapp\dto\admin\AdminDTO.class
+org\sony\mosaapp\dao\project\ProjectDAO.class
+org\sony\mosaapp\service\project\ProjectService.class
+org\sony\mosaapp\controller\issue\IssueController.class
+org\sony\mosaapp\dto\resource\ProjectResourceDTO.class
+org\sony\mosaapp\dao\resource\ProjectResourceDAO.class
+org\sony\mosaapp\dto\project\ProjectDTO.class
